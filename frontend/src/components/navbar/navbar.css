@@ -1,0 +1,8 @@
+.nav-item:hover{
+    transform: scale(1.5);
+    color: blue;
+    cursor: none;
+}
+.nav-item{
+    transition: 1s;
+}

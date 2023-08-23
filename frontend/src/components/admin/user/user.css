@@ -1,0 +1,13 @@
+.userTable>thead>tr>th{
+    padding: 4px;
+    border: 1px solid black;
+    width: 8em;
+}
+.user_table_body>td{
+    border: 1px solid grey;
+    white-space: nowrap;
+    line-height: 25px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 50px;
+}
